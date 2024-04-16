@@ -1,2 +1,3 @@
-# Side-Bar-Menu
-Here I am creating a side bar menu button using HTML check box properties and style with CSS.
+#Side-Bar Menu
+I have created a basic Photography website with side-bar menu by using HTML(Check box properties) and designed it by using CSS.
+https://patrarashmitakumari27.github.io/Side-Bar-Menu/ 
