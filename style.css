@@ -104,3 +104,8 @@
 #check:checked ~ .sidebar_menu .btn_two i{
     opacity:1;
 }
+@media(max-width: 375px){
+    .menu{
+        font-size: 20px;
+    }
+}
